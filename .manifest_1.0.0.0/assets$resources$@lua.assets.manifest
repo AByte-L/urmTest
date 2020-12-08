@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 1037897190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3484707e4810eb97e253a22cb49bcbaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/@lua/_system/jit/dis_ppc.lua.bytes
+- Assets/Resources/@lua/_system/misc/functions.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/RaycastHit.lua.bytes
+- Assets/Resources/@lua/_system/jit/dump.lua.bytes
+- Assets/Resources/@lua/_system/misc/misc.lua.bytes
+- Assets/Resources/@lua/_system/socket/mbox.lua.bytes
+- Assets/Resources/@lua/_system/socket/http.lua.bytes
+- Assets/Resources/@lua/_system/jit/dis_x86.lua.bytes
+- Assets/Resources/@lua/_system/jit/dis_mips64el.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Vector2.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/LayerMask.lua.bytes
+- Assets/Resources/@lua/_system/protobuf/descriptor.lua.bytes
+- Assets/Resources/@lua/_system/typeof.lua.bytes
+- Assets/Resources/@lua/_system/jit/dis_x64.lua.bytes
+- Assets/Resources/@lua/_system/protobuf/listener.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Color.lua.bytes
+- Assets/Resources/@lua/_system/cjson/util.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Mathf.lua.bytes
+- Assets/Resources/@lua/_system/socket/url.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Vector3.lua.bytes
+- Assets/Resources/@lua/_system/jit/dis_arm64be.lua.bytes
+- Assets/Resources/@lua/_system/socket/ftp.lua.bytes
+- Assets/Resources/@lua/_system/jit/v.lua.bytes
+- Assets/Resources/@lua/_game/main.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Vector4.lua.bytes
+- Assets/Resources/@lua/_system/ltn12.lua.bytes
+- Assets/Resources/@lua/_system/jit/dis_mips.lua.bytes
+- Assets/Resources/@lua/_system/System/Timer.lua.bytes
+- Assets/Resources/@lua/_system/jit/p.lua.bytes
+- Assets/Resources/@lua/_system/System/ValueType.lua.bytes
+- Assets/Resources/@lua/_system/jit/zone.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Quaternion.lua.bytes
+- Assets/Resources/@lua/_system/protobuf/wire_format.lua.bytes
+- Assets/Resources/@lua/_system/jit/bcsave.lua.bytes
+- Assets/Resources/@lua/_system/jit/vmdef.lua.bytes
+- Assets/Resources/@lua/_system/slot.lua.bytes
+- Assets/Resources/@lua/_system/System/Injection/InjectionBridgeInfo.lua.bytes
+- Assets/Resources/@lua/_system/jit/dis_arm64.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Profiler.lua.bytes
+- Assets/Resources/@lua/_system/lpeg/re.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Time.lua.bytes
+- Assets/Resources/@lua/_system/jit/dis_mipsel.lua.bytes
+- Assets/Resources/@lua/_system/protobuf/protobuf.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Bounds.lua.bytes
+- Assets/Resources/@lua/_system/protobuf/containers.lua.bytes
+- Assets/Resources/@lua/_system/protobuf/decoder.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Ray.lua.bytes
+- Assets/Resources/@lua/_system/System/Reflection/BindingFlags.lua.bytes
+- Assets/Resources/@lua/_system/System/coroutine.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Plane.lua.bytes
+- Assets/Resources/@lua/_system/socket.lua.bytes
+- Assets/Resources/@lua/_system/socket/tp.lua.bytes
+- Assets/Resources/@lua/_system/socket/headers.lua.bytes
+- Assets/Resources/@lua/_system/list.lua.bytes
+- Assets/Resources/@lua/_system/event.lua.bytes
+- Assets/Resources/@lua/_system/jit/dis_mips64.lua.bytes
+- Assets/Resources/@lua/_system/mime.lua.bytes
+- Assets/Resources/@lua/_system/UnityEngine/Touch.lua.bytes
+- Assets/Resources/@lua/_system/System/Injection/LuaInjectionBus.lua.bytes
+- Assets/Resources/@lua/_system/protobuf/encoder.lua.bytes
+- Assets/Resources/@lua/_system/socket/smtp.lua.bytes
+- Assets/Resources/@lua/_system/tolua.lua.bytes
+- Assets/Resources/@lua/_system/protobuf/type_checkers.lua.bytes
+- Assets/Resources/@lua/_system/System/Injection/LuaInjectionStation.lua.bytes
+- Assets/Resources/@lua/_system/jit/dis_arm.lua.bytes
+- Assets/Resources/@lua/_game/testcreategameobject.lua.bytes
+- Assets/Resources/@lua/_system/jit/bc.lua.bytes
+- Assets/Resources/@lua/_system/misc/utf8.lua.bytes
+- Assets/Resources/@lua/_system/protobuf/text_format.lua.bytes
+- Assets/Resources/@lua/_system/misc/strict.lua.bytes
+Dependencies: []
